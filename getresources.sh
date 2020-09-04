@@ -3,6 +3,7 @@
 
 # Instructions #
 # to be used on jobs that are using this orb to store memory usage with the store_usage_allocation command
+# https://circleci.com/orbs/registry/orb/ryanpedersen/docker-resource-digest
 
 # variables 
 CIRCLE_TOKEN=<CircleCI API Token>
